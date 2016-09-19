@@ -1,3 +1,4 @@
+//to run: node server.js
 var express = require('express')
 
 // create our app
@@ -8,3 +9,4 @@ app.use(express.static('public'));
 app.listen(4000, function (){
   console.log('Express server is up on port 4000');
 });
+
