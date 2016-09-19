@@ -1,0 +1,19 @@
+{
+  "name": "scorekeep",
+  "version": "1.0.0",
+  "description": "Simple score keeping react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sageio/scoreboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sageio/scoreboard/issues"
+  },
+  "homepage": "https://github.com/sageio/scoreboard#readme"
+}
